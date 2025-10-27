@@ -1,3 +1,5 @@
+
+<img alt="Image" src="https://i.imgflip.com/65efzo.gif" style="height: 200px;">
 # 💫 About Me:
 🔭 I’m currently working on nothing<br>🤝 I’m looking for help with you<br>🌱 I’m currently learning at I.I.S Valluri<br>💬 not request me anything cuz i'm not a server🤣<br>⚡ Fun fact:i'm jobless😎
 
@@ -14,7 +16,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AlessioGrass0&icon=10&color=3)](https://visitcount.itsvg.in)
 
