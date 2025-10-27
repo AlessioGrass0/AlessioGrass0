@@ -1,7 +1,7 @@
 
-<img alt="Image" src="https://i.imgflip.com/65efzo.gif" style="height: 200px;">
-# 💫 About Me:
-🔭 I’m currently working on nothing<br>🤝 I’m looking for help with you<br>🌱 I’m currently learning at I.I.S Valluri<br>💬 not request me anything cuz i'm not a server🤣<br>⚡ Fun fact:i'm jobless😎
+# 💫 About Me:🔭 I’m currently working on nothing
+<br>🤝 I’m looking for help with you<br>🌱 I’m currently learning at I.I.S Valluri<br>💬 not request me anything cuz i'm not a server🤣<br>⚡ Fun fact:i'm jobless<br>😁A pic of me:<br>
+<img alt="Image" src="fuoco.png" style="height: 200px;">
 
 
 ## 🌐 Socials:
